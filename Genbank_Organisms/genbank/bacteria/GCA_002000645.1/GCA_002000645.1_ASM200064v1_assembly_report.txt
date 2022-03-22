@@ -1,0 +1,32 @@
+# Assembly name:  ASM200064v1
+# Organism name:  Staphylococcus aureus (firmicutes)
+# Infraspecific name:  strain=USA300-SUR13
+# Taxid:          1280
+# BioSample:      SAMN04497607
+# BioProject:     PRJNA312385
+# Submitter:      University Medical Center Groningen
+# Date:           2017-02-16
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: SeqMan NGen v. 12.1.0
+# Genome coverage: missing
+# Sequencing technology: Illumina
+# GenBank assembly accession: GCA_002000645.1
+# RefSeq assembly accession: GCF_002000645.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_002000655.1	GCF_002000655.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP014409.1	=	NZ_CP014409.1	Primary Assembly	2919720	na
+pUSA01-1-SUR13	assembled-molecule	pUSA01-1-SUR13	Plasmid	CP014410.1	=	NZ_CP014410.1	Primary Assembly	3125	na
+pUSA04-1-SUR13	assembled-molecule	pUSA04-1-SUR13	Plasmid	CP014411.1	=	NZ_CP014411.1	Primary Assembly	27068	na

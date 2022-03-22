@@ -1,0 +1,33 @@
+# Assembly name:  ASM1388533v1
+# Organism name:  Escherichia coli (E. coli)
+# Infraspecific name:  strain=RHB23-C04
+# Taxid:          562
+# BioSample:      SAMN15148211
+# BioProject:     PRJNA605147
+# Submitter:      The REHAB Consortium
+# Date:           2020-07-29
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: Unicycler v. v0.4.7
+# Expected final version: yes
+# Genome coverage: 127.582362447169x
+# Sequencing technology: Hybrid: Illumina and OXFORD_NANOPORE
+# Excluded from RefSeq: from large multi-isolate project
+# GenBank assembly accession: GCA_013885335.1
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_013885385.1		Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP057555.1	<>	na	Primary Assembly	4859675	na
+pRHB23-C04_2	assembled-molecule	pRHB23-C04_2	Plasmid	CP057556.1	<>	na	Primary Assembly	109433	na
+pRHB23-C04_3	assembled-molecule	pRHB23-C04_3	Plasmid	CP057557.1	<>	na	Primary Assembly	6930	na
+pRHB23-C04_4	assembled-molecule	pRHB23-C04_4	Plasmid	CP057558.1	<>	na	Primary Assembly	4721	na

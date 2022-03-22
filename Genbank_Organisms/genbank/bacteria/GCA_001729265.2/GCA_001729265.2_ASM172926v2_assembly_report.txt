@@ -1,0 +1,29 @@
+# Assembly name:  ASM172926v2
+# Organism name:  Edwardsiella piscicida (enterobacteria)
+# Infraspecific name:  strain=S11-285
+# Taxid:          1263550
+# BioSample:      SAMN05240433
+# BioProject:     PRJNA325543
+# Submitter:      Mississippi State University
+# Date:           2021-10-04
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: Canu v. 1.0; Pilon v. 1.16
+# Genome coverage: Illumnia (109X), PacBio (140X)
+# Sequencing technology: Illumina; PacBio
+# GenBank assembly accession: GCA_001729265.2
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_001729275.2		Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP016044.2	<>	na	Primary Assembly	3918025	na
+unnamed1	assembled-molecule	unnamed1	Plasmid	CP016445.2	<>	na	Primary Assembly	3164	na

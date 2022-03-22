@@ -1,0 +1,31 @@
+# Assembly name:  ASM1814170v1
+# Organism name:  Xanthomonas arboricola pv. corylina (g-proteobacteria)
+# Infraspecific name:  strain=A7
+# Taxid:          487821
+# BioSample:      SAMN16058545
+# BioProject:     PRJNA661460
+# Submitter:      Agroadvance spa.
+# Date:           2021-04-27
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: Unicycler v. v0.4.9b
+# Expected final version: yes
+# Genome coverage: 515.0x
+# Sequencing technology: PacBio RSII; Illumina HiSeq
+# GenBank assembly accession: GCA_018141705.1
+# RefSeq assembly accession: GCF_018141705.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_018141715.1	GCF_018141715.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP062164.1	=	NZ_CP062164.1	Primary Assembly	5166498	na

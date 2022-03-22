@@ -1,0 +1,31 @@
+# Assembly name:  ASM1568945v1
+# Organism name:  Streptococcus equi subsp. zooepidemicus (firmicutes)
+# Infraspecific name:  strain=SEZ33
+# Taxid:          40041
+# BioSample:      SAMN16565173
+# BioProject:     PRJNA673199
+# Submitter:      Colorado State University
+# Date:           2020-11-25
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: SPAdes v. 3.13.1
+# Genome coverage: 114
+# Sequencing technology: Illumina NextSeq;Oxford Nanopore MiniION
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_015689455.1
+# RefSeq assembly accession: GCF_015689455.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_015689465.1	GCF_015689465.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP065061.1	=	NZ_CP065061.1	Primary Assembly	2040445	na

@@ -1,0 +1,30 @@
+# Assembly name:  ASM295086v1
+# Organism name:  Lactobacillus amylovorus (firmicutes)
+# Infraspecific name:  strain=JBD401
+# Taxid:          1604
+# BioSample:      SAMN03761145
+# BioProject:     PRJNA285821
+# Submitter:      Chonbuk national university, South korea
+# Date:           2018-02-02
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: Geneious pro. v. 5.5
+# Reference guided assembly: NC_006814.3
+# Genome coverage: 430x
+# Sequencing technology: 454; Illumina
+# Excluded from RefSeq: many frameshifted proteins; missing tRNA genes
+# GenBank assembly accession: GCA_002950865.1
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_002950875.1		Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP012389.1	<>	na	Primary Assembly	1946267	na

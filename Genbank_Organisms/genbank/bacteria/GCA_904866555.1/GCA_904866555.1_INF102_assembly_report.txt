@@ -1,0 +1,36 @@
+# Assembly name:  INF102
+# Organism name:  Klebsiella pneumoniae (enterobacteria)
+# Isolate:  INF102-sc-2279897
+# Taxid:          573
+# BioSample:      SAMEA3356970
+# BioProject:     PRJNA646837
+# Submitter:      Monash University
+# Date:           2020-11-01
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Genome coverage: 53x
+# GenBank assembly accession: GCA_904866555.1
+# RefSeq assembly accession: GCF_904866555.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_904866554.1	GCF_904866554.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+INF102_Chromosome	assembled-molecule	na	Chromosome	LR890726.1	=	NZ_LR890726.1	Primary Assembly	5232790	na
+INF102_Plasmid01	assembled-molecule	2	Plasmid	LR890727.1	=	NZ_LR890727.1	Primary Assembly	125521	na
+INF102_Plasmid02	assembled-molecule	3	Plasmid	LR890728.1	=	NZ_LR890728.1	Primary Assembly	124260	na
+INF102_Plasmid03	assembled-molecule	4	Plasmid	LR890729.1	=	NZ_LR890729.1	Primary Assembly	103830	na
+INF102_Plasmid04	assembled-molecule	5	Plasmid	LR890730.1	=	NZ_LR890730.1	Primary Assembly	43065	na
+INF102_Plasmid05	assembled-molecule	6	Plasmid	LR890731.1	=	NZ_LR890731.1	Primary Assembly	8712	na
+INF102_Plasmid06	assembled-molecule	7	Plasmid	LR890732.1	=	NZ_LR890732.1	Primary Assembly	3549	na
+INF102_Plasmid07	assembled-molecule	8	Plasmid	LR890733.1	=	NZ_LR890733.1	Primary Assembly	3336	na
+INF102_Plasmid08	assembled-molecule	9	Plasmid	LR890734.1	=	NZ_LR890734.1	Primary Assembly	1919	na

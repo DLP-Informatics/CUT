@@ -1,0 +1,29 @@
+# Assembly name:  ASM90452807v1
+# Organism name:  Agreia sp. COWG (high GC Gram+)
+# Isolate:  Agreia sp. COWG
+# Taxid:          2773266
+# BioSample:      SAMEA7322744
+# BioProject:     PRJEB40363
+# Submitter:      GMGM
+# Date:           2021-01-27
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Genome coverage: 148x
+# GenBank assembly accession: GCA_904528075.1
+# RefSeq assembly accession: GCF_904528075.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_904528074.1	GCF_904528074.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+COWG	assembled-molecule	na	Chromosome	LR882035.1	=	NZ_LR882035.1	Primary Assembly	3372677	na
+pCOWG	assembled-molecule	pCOWG	Plasmid	LR882036.1	=	NZ_LR882036.1	Primary Assembly	64315	na

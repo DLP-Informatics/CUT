@@ -1,0 +1,32 @@
+# Assembly name:  ASM222028v1
+# Organism name:  Bacillus cereus (firmicutes)
+# Infraspecific name:  strain=FORC_047
+# Taxid:          1396
+# BioSample:      SAMN05506965
+# BioProject:     PRJNA336246
+# Submitter:      Food-borne Pathogen Omics Research Center, FORC
+# Date:           2017-07-17
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: PacBio SMRT Analysis v. 2.3.0
+# Genome coverage: 169
+# Sequencing technology: PacBio
+# GenBank assembly accession: GCA_002220285.1
+# RefSeq assembly accession: GCF_002220285.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_002220295.1	GCF_002220295.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP017060.1	=	NZ_CP017060.1	Primary Assembly	5365433	na
+pFORC47_1	assembled-molecule	pFORC47_1	Plasmid	CP018741.1	=	NZ_CP018741.1	Primary Assembly	257708	na
+pFORC47_2	assembled-molecule	pFORC47_2	Plasmid	CP018742.1	=	NZ_CP018742.1	Primary Assembly	213830	na

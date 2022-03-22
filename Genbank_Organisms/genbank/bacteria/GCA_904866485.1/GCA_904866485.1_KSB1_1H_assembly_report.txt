@@ -1,0 +1,31 @@
+# Assembly name:  KSB1_1H
+# Organism name:  Klebsiella pneumoniae (enterobacteria)
+# Isolate:  KSB1_1H
+# Taxid:          573
+# BioSample:      SAMN06112200
+# BioProject:     PRJNA646837
+# Submitter:      Monash University
+# Date:           2020-11-01
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Genome coverage: 98x
+# GenBank assembly accession: GCA_904866485.1
+# RefSeq assembly accession: GCF_904866485.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_904866484.1	GCF_904866484.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+KSB1_1H_Chromosome	assembled-molecule	na	Chromosome	LR890722.1	=	NZ_LR890722.1	Primary Assembly	5230117	na
+KSB1_1H_Plasmid01	assembled-molecule	2	Plasmid	LR890723.1	=	NZ_LR890723.1	Primary Assembly	225937	na
+KSB1_1H_Plasmid02	assembled-molecule	3	Plasmid	LR890724.1	=	NZ_LR890724.1	Primary Assembly	95815	na
+KSB1_1H_Plasmid03	assembled-molecule	4	Plasmid	LR890725.1	=	NZ_LR890725.1	Primary Assembly	3223	na
