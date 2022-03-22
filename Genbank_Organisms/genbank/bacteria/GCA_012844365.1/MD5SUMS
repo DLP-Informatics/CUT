@@ -1,9 +1,0 @@
-e7689fb825f42db1e0c334ecea074bff  ./annotation_hashes.txt
-abc068d7eac7f84967e34c9c580075c7  ./GCA_012844365.1_ASM1284436v1_assembly_report.txt
-8e34c6ce7396c6ab1c3a3357a2a831ea  ./GCA_012844365.1_ASM1284436v1_assembly_stats.txt
-a7a72522e02ac43b4cc7ce9fd7445d8e  ./GCA_012844365.1_ASM1284436v1_assembly_structure/Primary_Assembly/assembled_chromosomes/AGP/chr.comp.agp.gz
-bdd8bfff280795d3690eb052548b04f1  ./GCA_012844365.1_ASM1284436v1_assembly_structure/Primary_Assembly/assembled_chromosomes/chr2acc
-fb194ff82d1742b418b67faf312fb94c  ./GCA_012844365.1_ASM1284436v1_assembly_structure/Primary_Assembly/assembled_chromosomes/FASTA/chr.fna.gz
-fe5c267c689b92b776252708e8a40de5  ./GCA_012844365.1_ASM1284436v1_feature_count.txt.gz
-fb194ff82d1742b418b67faf312fb94c  ./GCA_012844365.1_ASM1284436v1_genomic.fna.gz
-7c47ed388c330c87c5ac32b185caf346  ./GCA_012844365.1_ASM1284436v1_genomic.gbff.gz
