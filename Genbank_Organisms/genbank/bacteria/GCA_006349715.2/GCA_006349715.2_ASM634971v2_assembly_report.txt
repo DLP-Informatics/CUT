@@ -1,0 +1,33 @@
+# Assembly name:  ASM634971v2
+# Organism name:  Bacillus cereus (firmicutes)
+# Infraspecific name:  strain=A22
+# Taxid:          1396
+# BioSample:      SAMN11959879
+# BioProject:     PRJNA546477
+# Submitter:      ENDOBICA
+# Date:           2021-11-01
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: SPAdes v. SPAdes 3.13.0
+# Expected final version: yes
+# Genome coverage: 50.0x
+# Sequencing technology: Oxford Nanopore MinION
+# GenBank assembly accession: GCA_006349715.2
+# RefSeq assembly accession: GCF_006349715.2
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_006349725.2	GCF_006349725.2	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP085498.1	=	NZ_CP085498.1	Primary Assembly	5310791	na
+unnamed1	assembled-molecule	unnamed1	Plasmid	CP085499.1	=	NZ_CP085499.1	Primary Assembly	480744	na
+unnamed2	assembled-molecule	unnamed2	Plasmid	CP085500.1	=	NZ_CP085500.1	Primary Assembly	93775	na

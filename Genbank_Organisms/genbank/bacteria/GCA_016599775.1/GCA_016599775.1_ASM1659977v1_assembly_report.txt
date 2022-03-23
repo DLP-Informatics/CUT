@@ -1,0 +1,30 @@
+# Assembly name:  ASM1659977v1
+# Organism name:  Pseudomonas balearica (g-proteobacteria)
+# Infraspecific name:  strain=FDAARGOS_1013
+# Taxid:          74829
+# BioSample:      SAMN16357182
+# BioProject:     PRJNA231221
+# Submitter:      US Food and Drug Administration
+# Date:           2021-01-11
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: SMRT v. 7.1.0, HGAP v. 4
+# Genome coverage: 744.79x
+# Sequencing technology: Pacbio; Illumina
+# GenBank assembly accession: GCA_016599775.1
+# RefSeq assembly accession: GCF_016599775.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_016599785.1	GCF_016599785.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP067013.1	=	NZ_CP067013.1	Primary Assembly	4411233	na

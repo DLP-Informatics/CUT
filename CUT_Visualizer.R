@@ -17,7 +17,7 @@ if(!exists("updateflag"))
   
   path_FASTA <- paste(HomeDir, "/Genbank_Organisms/FASTA_src", sep = "")
   path_GBK <- paste(HomeDir, "/Genbank_Orgnaisms/GBK_src", sep = "")
-  path_Output <- paste(HomeDir, "/SampleOrg/CU_Output", sep = "")
+  path_Output <- paste(HomeDir, "/Genbank_Organisms/CU_Output", sep = "")
   path_Output_Forward <- paste(path_Output, "/Forward", sep = "")
   path_Output_Reverse <- paste(path_Output, "/Reverse", sep = "")
   path_HelperScripts <- paste(HomeDir, "/HelperScripts", sep = "")

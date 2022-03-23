@@ -1,0 +1,34 @@
+# Assembly name:  ASM210433v1
+# Organism name:  Campylobacter cuniculorum DSM 23162 = LMG 24588 (e-proteobacteria)
+# Infraspecific name:  strain=LMG 24588
+# Taxid:          1121267
+# BioSample:      SAMN03737969
+# BioProject:     PRJNA66793
+# Submitter:      USDA, ARS, WRRC
+# Date:           2017-04-21
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: Newbler v. 2.6
+# Genome coverage: 1363x
+# Sequencing technology: Sanger dideoxy sequencing; 454; Illumina; PacBio
+# Relation to type material: assembly from type material
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_002104335.1
+# RefSeq assembly accession: GCF_002104335.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_002104345.1	GCF_002104345.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP020867.1	=	NZ_CP020867.1	Primary Assembly	1931011	na
+pCUN1	assembled-molecule	pCUN1	Plasmid	CP020868.1	=	NZ_CP020868.1	Primary Assembly	4923	na
+pCUN2	assembled-molecule	pCUN2	Plasmid	CP020869.1	=	NZ_CP020869.1	Primary Assembly	1834	na

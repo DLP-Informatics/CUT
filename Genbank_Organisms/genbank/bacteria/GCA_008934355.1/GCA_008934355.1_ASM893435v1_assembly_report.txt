@@ -1,0 +1,33 @@
+# Assembly name:  ASM893435v1
+# Organism name:  Staphylococcus aureus (firmicutes)
+# Infraspecific name:  strain=ER04013.3
+# Taxid:          1280
+# BioSample:      SAMN09484035
+# BioProject:     PRJNA470993
+# Submitter:      Icahn School of Medicine
+# Date:           2019-10-10
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: HGAP v. 2.2.0
+# Expected final version: yes
+# Genome coverage: 296.360967216x
+# Sequencing technology: PacBio
+# Excluded from RefSeq: from large multi-isolate project
+# GenBank assembly accession: GCA_008934355.1
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_008934365.1		Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP030459.1	<>	na	Primary Assembly	2840211	na
+unnamed1	assembled-molecule	unnamed1	Plasmid	CP030458.1	<>	na	Primary Assembly	35675	na
+unnamed2	assembled-molecule	unnamed2	Plasmid	CP030460.1	<>	na	Primary Assembly	8041	na
+unnamed3	assembled-molecule	unnamed3	Plasmid	CP030461.1	<>	na	Primary Assembly	24661	na

@@ -1,0 +1,17 @@
+ff3c8615af7dcc895ea166a8ef5f7d57  ./annotation_hashes.txt
+2b0bc1e2768a158fc9a576b8fb3fb3cd  ./GCA_900243745.1_G11_assembly_assembly_report.txt
+a7e79fe9675352e4a74989d82dabfd27  ./GCA_900243745.1_G11_assembly_assembly_stats.txt
+0aab79fe3d138aae60e266e6e7fb5de6  ./GCA_900243745.1_G11_assembly_assembly_structure/Primary_Assembly/assembled_chromosomes/AGP/chr.comp.agp.gz
+d98ac18d540037bfb58cf98d1524797a  ./GCA_900243745.1_G11_assembly_assembly_structure/Primary_Assembly/assembled_chromosomes/chr2acc
+7e4fb11c7de50adfdeebf54460e07142  ./GCA_900243745.1_G11_assembly_assembly_structure/Primary_Assembly/assembled_chromosomes/FASTA/chr.fna.gz
+549e4b1e01448e2c799322f441641472  ./GCA_900243745.1_G11_assembly_cds_from_genomic.fna.gz
+972c551b7f0a48740fe08dcd08d95af9  ./GCA_900243745.1_G11_assembly_feature_count.txt.gz
+55742b5506e165fa2944025e30d3ba74  ./GCA_900243745.1_G11_assembly_feature_table.txt.gz
+7e4fb11c7de50adfdeebf54460e07142  ./GCA_900243745.1_G11_assembly_genomic.fna.gz
+07eae38d7e114b277aba669a33fd76ea  ./GCA_900243745.1_G11_assembly_genomic.gbff.gz
+cd73a00ea69b2f25d356a6bcad2d0e36  ./GCA_900243745.1_G11_assembly_genomic.gff.gz
+f35cfec767971c674f5c8132610668dc  ./GCA_900243745.1_G11_assembly_genomic.gtf.gz
+3452bf564610196e032f62f844f0a531  ./GCA_900243745.1_G11_assembly_protein.faa.gz
+c3a8f32f8c2c2348e05399440be10d16  ./GCA_900243745.1_G11_assembly_protein.gpff.gz
+e6fbabfe21d638e8fea44197890b95d7  ./GCA_900243745.1_G11_assembly_rna_from_genomic.fna.gz
+4c7d7f4f6f4cee1f9cca1fa00534c9a3  ./GCA_900243745.1_G11_assembly_translated_cds.faa.gz

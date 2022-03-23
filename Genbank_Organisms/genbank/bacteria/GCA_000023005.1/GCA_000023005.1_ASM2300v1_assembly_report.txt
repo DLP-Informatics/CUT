@@ -1,0 +1,28 @@
+# Assembly name:  ASM2300v1
+# Organism name:  Rickettsia africae ESF-5 (a-proteobacteria)
+# Infraspecific name:  strain=ESF-5
+# Taxid:          347255
+# BioSample:      SAMN02603146
+# BioProject:     PRJNA18269
+# Submitter:      CNRS
+# Date:           2009-04-29
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# GenBank assembly accession: GCA_000023005.1
+# RefSeq assembly accession: GCF_000023005.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000023015.1	GCF_000023015.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP001612.1	=	NC_012633.1	Primary Assembly	1278540	na
+pRAF	assembled-molecule	pRAF	Plasmid	CP001613.1	=	NC_012634.1	Primary Assembly	12377	na

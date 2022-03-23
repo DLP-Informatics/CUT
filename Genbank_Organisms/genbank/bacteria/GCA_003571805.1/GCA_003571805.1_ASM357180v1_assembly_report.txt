@@ -1,0 +1,31 @@
+# Assembly name:  ASM357180v1
+# Organism name:  Pseudomonas aeruginosa (g-proteobacteria)
+# Infraspecific name:  strain=AR_0111
+# Taxid:          287
+# BioSample:      SAMN04014952
+# BioProject:     PRJNA292904
+# Submitter:      Centers for Disease Control and Prevention
+# Date:           2018-09-17
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: canu v. 1.6
+# Genome coverage: 124x
+# Sequencing technology: PacBio RSII
+# GenBank assembly accession: GCA_003571805.1
+# RefSeq assembly accession: GCF_003571805.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_003571815.1	GCF_003571815.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP032257.1	=	NZ_CP032257.1	Primary Assembly	6946231	na
+unnamed	assembled-molecule	unnamed	Plasmid	CP032256.1	=	NZ_CP032256.1	Primary Assembly	129422	na
