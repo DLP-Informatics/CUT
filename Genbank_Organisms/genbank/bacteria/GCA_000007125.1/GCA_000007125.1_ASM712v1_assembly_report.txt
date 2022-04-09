@@ -27,4 +27,4 @@
 #
 # Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
 I	assembled-molecule	I	Chromosome	AE008917.1	=	NC_003317.1	Primary Assembly	2117144	na
-II	assembled-molecule	II	Chromosome	AE008918.1	=	NC_003318.1	Primary Assembly	1177787	na
+II	assembled-molecule	II	Chromosome	AE008918.1	=		NC_003318.1	Primary Assembly	1177787	na
